@@ -1,5 +1,5 @@
 {
-  "version": "1.1.4",
-  "downloadUrl": "https://raw.githubusercontent.com/IkigaiHack/MABAR-DIAGNOSTICS/main/HYPE_TEAM_DIAGNOSTICS_1.1.4.html",
-  "notes": "HYPE TEAM 1.1.4: logotypy marek samochodów w szybkim wyborze i katalogu producentów."
+  "version": "1.1.5",
+  "downloadUrl": "https://raw.githubusercontent.com/IkigaiHack/MABAR-DIAGNOSTICS/main/HYPE_TEAM_DIAGNOSTICS_1.1.5.html",
+  "notes": "HYPE TEAM 1.1.5: naprawiono Failed to fetch w aktualizatorze — usunięto nagłówki powodujące żądanie CORS preflight. Zachowano logotypy marek."
 }
