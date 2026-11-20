@@ -8,3 +8,8 @@
 
 ## Ważne
 Wersja HTML pobiera aktualizację na żądanie użytkownika. Nie nadpisuje po cichu otwartego pliku. Automatyczne pobieranie z prywatnego repozytorium wymaga bezpiecznej autoryzacji lub osobnego publicznego kanału wydań.
+
+## 1.0.3 — test aktualizatora
+- Podniesiono numer wersji aplikacji do 1.0.3.
+- Dodano widoczne oznaczenie kompilacji testowej.
+- Przygotowano wydanie do sprawdzenia pobierania aktualizacji z publicznego GitHuba.
