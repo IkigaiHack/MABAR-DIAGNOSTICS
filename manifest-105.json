@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
-  "downloadUrl": "https://raw.githubusercontent.com/IkigaiHack/MABAR-DIAGNOSTICS/main/MABAR_DIAGNOSTICS_1.0.8.html",
-  "notes": "Odświeżanie manifestu przy każdym sprawdzeniu aktualizacji; okno Co nowego? wyświetlane raz na wersję."
+  "version": "1.0.9",
+  "downloadUrl": "https://raw.githubusercontent.com/IkigaiHack/MABAR-DIAGNOSTICS/main/HYPE_TEAM_DIAGNOSTICS_1.0.9.html",
+  "notes": "HYPE TEAM DIAGNOSTICS: logowanie dla tata i ty oraz wspólna synchronizacja danych przez Supabase."
 }
