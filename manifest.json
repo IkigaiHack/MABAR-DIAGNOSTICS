@@ -1,5 +1,5 @@
 {
   "version": "1.0.3",
-  "downloadUrl": "https://github.com/IkigaiHack/MABAR-DIAGNOSTICS/releases/latest/download/MABAR_DIAGNOSTICS.html",
-  "notes": "Wersja testowa aktualizatora 1.0.3. Widoczny numer kompilacji i test pobierania aktualizacji na drugim komputerze."
+  "downloadUrl": "https://raw.githubusercontent.com/IkigaiHack/MABAR-DIAGNOSTICS/main/MABAR_DIAGNOSTICS_1.0.3.html",
+  "notes": "Wersja testowa 1.0.3. Sprawdzenie aktualizatora i pobierania pliku z publicznego repozytorium."
 }
