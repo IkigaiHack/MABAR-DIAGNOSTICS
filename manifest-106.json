@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
-  "downloadUrl": "https://raw.githubusercontent.com/IkigaiHack/MABAR-DIAGNOSTICS/main/MABAR_DIAGNOSTICS_1.0.6.html",
-  "notes": "Aktualizacja 1.0.6: status przeniesiony wyżej i logo HYPE TEAM DIAGNOSTIC w nagłówku."
+  "version": "1.0.7",
+  "downloadUrl": "https://raw.githubusercontent.com/IkigaiHack/MABAR-DIAGNOSTICS/main/MABAR_DIAGNOSTICS_1.0.7.html",
+  "notes": "Nowe okno Co nowego? po aktualizacji, wyświetlane tylko raz dla każdej wersji. Konta pracowników i role będą kolejnym etapem po wyborze bezpiecznego zaplecza logowania."
 }
