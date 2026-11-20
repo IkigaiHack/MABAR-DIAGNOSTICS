@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
-  "downloadUrl": "https://raw.githubusercontent.com/IkigaiHack/MABAR-DIAGNOSTICS/main/MABAR_DIAGNOSTICS_1.0.4.html",
-  "notes": "Automatyczne źródło aktualizacji i sprawdzanie wersji po wejściu do zakładki Aktualizacje. Nie trzeba ręcznie wklejać adresu manifestu."
+  "version": "1.0.5",
+  "downloadUrl": "https://raw.githubusercontent.com/IkigaiHack/MABAR-DIAGNOSTICS/main/MABAR_DIAGNOSTICS_1.0.5.html",
+  "notes": "Wersja testowa 1.0.5: kontrola automatycznego wykrywania aktualizacji z manifestu GitHub."
 }
