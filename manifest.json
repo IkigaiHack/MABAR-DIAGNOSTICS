@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "downloadUrl": "https://raw.githubusercontent.com/IkigaiHack/MABAR-DIAGNOSTICS/main/HYPE_TEAM_DIAGNOSTICS_1.1.0.html",
-  "notes": "HYPE TEAM 1.1.0: usunięto Supabase. Dwa lokalne konta ty/tata, hasła ustawiane przy pierwszym uruchomieniu, dane pozostają w przeglądarce."
+  "version": "1.1.1",
+  "downloadUrl": "https://raw.githubusercontent.com/IkigaiHack/MABAR-DIAGNOSTICS/main/HYPE_TEAM_DIAGNOSTICS_1.1.1.html",
+  "notes": "HYPE TEAM 1.1.1: poprawka logowania lokalnego — ukryte pole potwierdzenia hasła nie blokuje logowania."
 }
