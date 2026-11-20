@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "downloadUrl": "https://raw.githubusercontent.com/IkigaiHack/MABAR-DIAGNOSTICS/main/HYPE_TEAM_DIAGNOSTICS_1.1.1.html",
-  "notes": "HYPE TEAM 1.1.1: poprawka logowania lokalnego — ukryte pole potwierdzenia hasła nie blokuje logowania."
+  "version": "1.1.2",
+  "downloadUrl": "https://raw.githubusercontent.com/IkigaiHack/MABAR-DIAGNOSTICS/main/HYPE_TEAM_DIAGNOSTICS_1.1.2.html",
+  "notes": "HYPE TEAM 1.1.2: zmiana loginów na Marcel i Bartek. Zachowano migrację wcześniej zapisanych haseł z kont ty i tata."
 }
