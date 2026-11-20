@@ -13,3 +13,8 @@ Wersja HTML pobiera aktualizację na żądanie użytkownika. Nie nadpisuje po ci
 - Podniesiono numer wersji aplikacji do 1.0.3.
 - Dodano widoczne oznaczenie kompilacji testowej.
 - Przygotowano wydanie do sprawdzenia pobierania aktualizacji z publicznego GitHuba.
+
+## 1.0.4 — automatyczne aktualizacje
+- Domyślny adres manifestu GitHub jest wbudowany w aplikację.
+- Aktualizator automatycznie sprawdza wersję po otwarciu zakładki Aktualizacje.
+- Nie trzeba ręcznie wklejać adresu manifestu.
