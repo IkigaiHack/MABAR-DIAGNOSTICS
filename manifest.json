@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
-  "downloadUrl": "https://raw.githubusercontent.com/IkigaiHack/MABAR-DIAGNOSTICS/main/MABAR_DIAGNOSTICS_1.0.5.html",
-  "notes": "Wersja testowa 1.0.5: kontrola automatycznego wykrywania aktualizacji z manifestu GitHub."
+  "version": "1.0.6",
+  "downloadUrl": "https://raw.githubusercontent.com/IkigaiHack/MABAR-DIAGNOSTICS/main/MABAR_DIAGNOSTICS_1.0.6.html",
+  "notes": "Status aktualizacji przeniesiony wyżej, a logo HYPE TEAM DIAGNOSTIC dodane do nagłówka programu."
 }
