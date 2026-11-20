@@ -127,7 +127,7 @@ async function checkForUpdates(){
 async function downloadUpdate(url,version){
  try{
   $('updateStatus').insertAdjacentHTML('beforeend','<p id="updateDownloadState">Pobieranie pliku…</p>');
-  let freshDownloadUrl=new URL(url);freshDownloadUrl.searchParams.set('_mabar_download',Date.now());let r=await fetch(freshDownloadUrl.href,{cache:'no-store',headers:{'Cache-Control':'no-cache','Pragma':'no-cache'}});if(!r.ok)throw new Error('HTTP '+r.status);
+  let freshDownloadUrl=new URL(url);freshDownloadUrl.searchParams.set('_mabar_download',Date.now());let r=await fetch(freshDownloadUrl.href,{cache:'no-store'});if(!r.ok)throw new Error('HTTP '+r.status);
   let blob=await r.blob();if(blob.size<1000)throw new Error('Pobrany plik jest zbyt mały, przerwano aktualizację.');let check=await blob.slice(0,500).text();if(!check.includes('<!doctype html')&&!check.includes('<!DOCTYPE html'))throw new Error('Pobrany plik nie wygląda na aplikację HTML.');
   let objectUrl=URL.createObjectURL(blob),a=document.createElement('a');a.href=objectUrl;a.download=`HYPE_TEAM_DIAGNOSTICS_BUILD_${version}.html`;document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(objectUrl),30000);
   let s=$('updateDownloadState');if(s)s.textContent='Pobrano nowy plik. Zachowaj dotychczasowy plik i otwórz pobraną wersję. Baza danych pozostaje w pamięci tej samej przeglądarki/profilu.';
